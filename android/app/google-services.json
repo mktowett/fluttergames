@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372821383283",
+    "firebase_url": "https://flutterapp-7e78f.firebaseio.com",
+    "project_id": "flutterapp-7e78f",
+    "storage_bucket": "flutterapp-7e78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372821383283:android:23f49e5b643d895f973206",
+        "android_client_info": {
+          "package_name": "com.nfs.mktowett.fluttergames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372821383283-9fr06257crt1u7an2uf4t7131g7bo8vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13BWvoQA6KpBn4TORTieu_MRK-CDTRQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372821383283-9fr06257crt1u7an2uf4t7131g7bo8vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
